@@ -42,5 +42,3 @@ Data Analysis | Time Series Analysis | Category-wise Sales Insights
 
 ---
 
-## 👩‍💻 Author
-**Vaishnavi Bhosale**
